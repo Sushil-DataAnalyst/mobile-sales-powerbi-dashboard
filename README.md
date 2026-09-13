@@ -10,11 +10,15 @@ An interactive **Mobile Sales Analysis Dashboard** built in Microsoft Power BI t
 
 ### Executive Sales Overview
 
-_Screenshot will be added to `Screenshots/dashboard-overview.png`._
+(./Screenshot%2026-06-23%20135029.png)
+
+### MTD Analysis
+
+(./Screenshot%2026-06-23%20135106.png)
 
 ### Detailed Sales & Customer Analysis
 
-_Screenshot will be added to `Screenshots/sales-analysis.png`._
+(./Screenshot%2026-06-23%20135318.png)
 
 ---
 
